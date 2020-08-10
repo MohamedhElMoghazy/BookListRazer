@@ -20541,6 +20541,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\ME\\C#\\Projects\\BookListRazer\\BookListRazer\\Pages\\BookList\\Index.cshtml",
+      "TargetPath": "Pages\\BookList\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\ME\\C#\\Projects\\BookListRazer\\BookListRazer\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
