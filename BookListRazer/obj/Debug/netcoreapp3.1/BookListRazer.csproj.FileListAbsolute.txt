@@ -411,7 +411,14 @@ C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\ru\Microso
 C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ME\C#\Projects\BookListRazer\BookListRazer\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
+C:\ME\C#\Projects\BookListRazer\BookListRazer\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
+C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\ME\C#\Projects\BookListRazer\BookListRazer\obj\Debug\netcoreapp3.1\BookListRazer.csproj.CoreCompileInputs.cache
 C:\ME\C#\Projects\BookListRazer\BookListRazer\obj\Debug\netcoreapp3.1\BookListRazer.MvcApplicationPartsAssemblyInfo.cs
 C:\ME\C#\Projects\BookListRazer\BookListRazer\obj\Debug\netcoreapp3.1\BookListRazer.MvcApplicationPartsAssemblyInfo.cache
-C:\ME\C#\Projects\BookListRazer\BookListRazer\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
