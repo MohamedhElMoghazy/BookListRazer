@@ -422,3 +422,4 @@ C:\ME\C#\Projects\BookListRazer\BookListRazer\bin\Debug\netcoreapp3.1\System.Ide
 C:\ME\C#\Projects\BookListRazer\BookListRazer\obj\Debug\netcoreapp3.1\BookListRazer.csproj.CoreCompileInputs.cache
 C:\ME\C#\Projects\BookListRazer\BookListRazer\obj\Debug\netcoreapp3.1\BookListRazer.MvcApplicationPartsAssemblyInfo.cs
 C:\ME\C#\Projects\BookListRazer\BookListRazer\obj\Debug\netcoreapp3.1\BookListRazer.MvcApplicationPartsAssemblyInfo.cache
+C:\ME\C#\Projects\BookListRazer\BookListRazer\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs

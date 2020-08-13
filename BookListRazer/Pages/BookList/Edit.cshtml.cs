@@ -20,11 +20,11 @@ namespace BookListRazer.Pages.BookList
         }
 
         [BindProperty]
-        public Book Book { get; set; }
+        public Book book { get; set; }
         public async Task OnGet(int id)
         {
-            Book = await _db.Book.FindAsync(id);
-
+            book = await _db.Book.FindAsync(id);
+            
         }
     }
 }
