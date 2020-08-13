@@ -23,13 +23,13 @@ namespace BookListRazer.Pages.BookList
 
 
         }
-        public async Task<IActionResult> OnPost()
+        public async Task<IActionResult> OnPost() // transmit data from the form to the database
         {
             if (ModelState.IsValid) // confirm there is output from the form and it is field
             {
 
-                await _db.Book.AddAsync(book);
-                await _db.SaveChangesAsync();
+                await _db.Book.AddAsync(book); // add the object to que 
+                await _db.SaveChangesAsync(); // save and post the data to the database
                 return RedirectToPage("Index");
             }
             else // the filed is empty

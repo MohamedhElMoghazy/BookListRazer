@@ -20564,6 +20564,11 @@
       "FilePath": "c:\\ME\\C#\\Projects\\BookListRazer\\BookListRazer\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\ME\\C#\\Projects\\BookListRazer\\BookListRazer\\Pages\\BookList\\Edit.cshtml",
+      "TargetPath": "Pages\\BookList\\Edit.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
