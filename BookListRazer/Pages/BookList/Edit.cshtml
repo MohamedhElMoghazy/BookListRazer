@@ -7,6 +7,7 @@
 
 <div class="border container" style="padding:30px;">
     <form method="post">
+        <input type="hidden" asp-for="book.Id"/>
         <div class="text-danger" asp-validation-summary="ModelOnly"></div>
         <div class="form-group row">
             <div class="col-3">
@@ -48,7 +49,7 @@
 
         <div class=" form-group row">
             <div class=" col-3 offset-3">
-                <input type="Submit" value="Edit " class=" btn btn-primary btn-sm form-control" />
+                <input type="Submit" value="Update " class=" btn btn-primary btn-sm form-control" />
 
             </div>
             <div class="col-3">
