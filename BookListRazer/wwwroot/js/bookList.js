@@ -4,18 +4,17 @@ $(document).ready(function () {
     loadDataTable();
 });
 
-funciton loadDataTable() {
-    dataTable = $('#DT_load').dataTable({
+function loadDataTable() {
+    dataTable = $('#DT_load').DataTable({
         "ajax": {
             "url": "/api/book",
             "type": "GET",
             "datatype": "json"
-
         },
         "columns": [
-            { "data": "name", "width: ": "30%" },
-            { "data": "author", "width: ": "30%" },
-            { "data": "isbn", "width: ": "30%" },
+            { "data": "name", "width": "20%" },
+            { "data": "author", "width": "20%" },
+            { "data": "isbn", "width": "20%" },
             {
                 "data": "id",
                 "render": function (data) {
